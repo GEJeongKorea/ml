@@ -1,9 +1,9 @@
-# Machine Learning (머신러닝)
+﻿# Machine Learning (머신러닝)
 ================================================
 <pre>
 
 <a href="https://github.com/hohoins/ml/tree/master/hunkim">
-홍콩과기대 김성훈 교수님 강의 실습 자료
+홍콩과기대 김성훈 교수님 강의 실습 자료 haha
 </a>
 
 <a href="https://github.com/hohoins/ml/tree/master/TfAndroid">
